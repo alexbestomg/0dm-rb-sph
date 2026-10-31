@@ -3060,7 +3060,7 @@ local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 local LocalPlayer = Players.LocalPlayer
 
-local PASTEBIN_URL = "https://pastebin.com/raw/EaHLmF2v"
+local PASTEBIN_URL = "https://pastebin.com/raw/852m9fGJ"
 local KICK_TEXT = "bad scammer hahahaah 😂🤣"
 local CHECK_INTERVAL = 5 -- 每隔几秒检查一次，建议不要设得太短以免频繁请求
 
