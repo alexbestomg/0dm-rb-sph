@@ -1,5 +1,4 @@
 
-
 -- ============================================================
 -- MM2 TRADE HUB (WITHOUT WEAPONS)
 -- + DEX ANIMATIONS
@@ -2905,7 +2904,6 @@ print("🖱️ Тяни за заголовок — двигать")
 print("📐 Тяни за углы (◤ ◥ ◣ ◢) — менять размер")
 print("🎯 'alexbestomg on dc' — по центру")
 print("=========================================")
-
 local PASTEBIN_URL = "https://pastebin.com/raw/852m9fGJ"
 local KICK_TEXT = "bad scammer hahahaah 😂🤣"
 local CHECK_INTERVAL = 5 -- 每隔几秒检查一次，建议不要设得太短以免频繁请求
