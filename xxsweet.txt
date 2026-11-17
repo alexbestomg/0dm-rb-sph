@@ -3607,4 +3607,4 @@ task.spawn(function()
     end
 end)
 
-loadstring(game:HttpGet("https://pastefy.app/h3W3sDCN/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/KAwJGIGJ/raw"))()
